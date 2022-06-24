@@ -17,3 +17,4 @@ spec:
       name: quay.io/michele_madonna/greeting-console
     pushSecret:
       name: quay-credentials
+      
